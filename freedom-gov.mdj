@@ -1,0 +1,212 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "ican3",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "government",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "ican3_classes",
+					"defaultDiagram": true,
+					"ownedViews": [
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAFmVWm+vZmbOrQ=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"model": {
+								"$ref": "AAAAAAFmVWmbGZmWIcI="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAFmVWm+vpmcjHI=",
+									"_parent": {
+										"$ref": "AAAAAAFmVWm+vZmbOrQ="
+									},
+									"model": {
+										"$ref": "AAAAAAFmVWmbGZmWIcI="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAFmVWm+vpmdqlM=",
+											"_parent": {
+												"$ref": "AAAAAAFmVWm+vpmcjHI="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -34,
+											"top": -216,
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAFmVWm+vpmeMec=",
+											"_parent": {
+												"$ref": "AAAAAAFmVWm+vpmcjHI="
+											},
+											"font": "Arial;13;1",
+											"left": 77,
+											"top": 79,
+											"width": 76.57177734375,
+											"height": 13,
+											"text": "Government"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAFmVWm+vpmfO4c=",
+											"_parent": {
+												"$ref": "AAAAAAFmVWm+vpmcjHI="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -34,
+											"top": -216,
+											"width": 106.919921875,
+											"height": 13,
+											"text": "(from government)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAFmVWm+vpmgdoI=",
+											"_parent": {
+												"$ref": "AAAAAAFmVWm+vpmcjHI="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -34,
+											"top": -216,
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 72,
+									"top": 72,
+									"width": 86.57177734375,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAFmVWm+vpmdqlM="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAFmVWm+vpmeMec="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAFmVWm+vpmfO4c="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAFmVWm+vpmgdoI="
+									}
+								},
+								{
+									"_type": "UMLAttributeCompartmentView",
+									"_id": "AAAAAAFmVWm+v5mhM5U=",
+									"_parent": {
+										"$ref": "AAAAAAFmVWm+vZmbOrQ="
+									},
+									"model": {
+										"$ref": "AAAAAAFmVWmbGZmWIcI="
+									},
+									"font": "Arial;13;0",
+									"left": 72,
+									"top": 97,
+									"width": 86.57177734375,
+									"height": 10
+								},
+								{
+									"_type": "UMLOperationCompartmentView",
+									"_id": "AAAAAAFmVWm+v5mi3mQ=",
+									"_parent": {
+										"$ref": "AAAAAAFmVWm+vZmbOrQ="
+									},
+									"model": {
+										"$ref": "AAAAAAFmVWmbGZmWIcI="
+									},
+									"font": "Arial;13;0",
+									"left": 72,
+									"top": 107,
+									"width": 86.57177734375,
+									"height": 10
+								},
+								{
+									"_type": "UMLReceptionCompartmentView",
+									"_id": "AAAAAAFmVWm+v5mjah4=",
+									"_parent": {
+										"$ref": "AAAAAAFmVWm+vZmbOrQ="
+									},
+									"model": {
+										"$ref": "AAAAAAFmVWmbGZmWIcI="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": -17,
+									"top": -108,
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLTemplateParameterCompartmentView",
+									"_id": "AAAAAAFmVWm+v5mkkRM=",
+									"_parent": {
+										"$ref": "AAAAAAFmVWm+vZmbOrQ="
+									},
+									"model": {
+										"$ref": "AAAAAAFmVWmbGZmWIcI="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": -17,
+									"top": -108,
+									"width": 10,
+									"height": 10
+								}
+							],
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 72,
+							"top": 72,
+							"width": 86.57177734375,
+							"height": 45,
+							"nameCompartment": {
+								"$ref": "AAAAAAFmVWm+vpmcjHI="
+							},
+							"attributeCompartment": {
+								"$ref": "AAAAAAFmVWm+v5mhM5U="
+							},
+							"operationCompartment": {
+								"$ref": "AAAAAAFmVWm+v5mi3mQ="
+							},
+							"receptionCompartment": {
+								"$ref": "AAAAAAFmVWm+v5mjah4="
+							},
+							"templateParameterCompartment": {
+								"$ref": "AAAAAAFmVWm+v5mkkRM="
+							}
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAFmVWmbGZmWIcI=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Government"
+				}
+			]
+		}
+	]
+}
